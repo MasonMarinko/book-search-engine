@@ -2,13 +2,13 @@
 
 ## Links
 
-Repository Link: [Mason Marinko Portfolio](https://github.com/MasonMarinko/book-search-engine/)
+Repository Link: [Book Search Engine Repo](https://github.com/MasonMarinko/book-search-engine/)
 
-Live URL Link: [Mason Marinko Portfolio Website]()
+Live URL Link: [Book Search Engine Website](https://arcane-anchorage-07295.herokuapp.com/)
 
 ## Description
 
-- 
+- Book Search Engine allows you to easily search for books, see information about them including a brief description and a picture of the cover. If logged in you are able to add the book to your list which allows you to look at it anytime. If not logged in you are able to still search and see books but will not be able to add books to your own list.
 
 ## Table of Contents
 * [Usage](#usage)
