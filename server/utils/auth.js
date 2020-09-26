@@ -34,7 +34,5 @@ module.exports = {
       }
     // return updated request object
       return req;
-
    }
-
 };
