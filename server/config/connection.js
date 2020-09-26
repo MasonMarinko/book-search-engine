@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/booksearch',
+  'mongodb+srv://crason8:masonhi@cluster0.6ughz.mongodb.net/booksearch?retryWrites=true&w=majority',
   {
     useNewUrlParser: true, 
     useUnifiedTopology: true,
